@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532783402163.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E017228E",
+    "lastKnownWriteTime" : 1532835927,
+    "last_content_update" : 1532835927638,
+    "path" : "~/Dropbox/analytics/rWork/rProjects/CBAP Workshop/DT-Iris.R",
+    "project_path" : "DT-Iris.R",
+    "properties" : {
+        "cursorPosition" : "14,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

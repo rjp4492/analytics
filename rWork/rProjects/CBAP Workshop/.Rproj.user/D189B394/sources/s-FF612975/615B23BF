@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521391028355.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "615B23BF",
+    "lastKnownWriteTime" : 1521856629,
+    "last_content_update" : 1521856629528,
+    "path" : "~/Dropbox/analytics/rWork/rProjects/CBAP Workshop/salesmlr.R",
+    "project_path" : "salesmlr.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,15 @@
+iris
+library(rpart)
+library(rpart.plot)
+
+str(iris)
+head(iris)
+
+library(dplyr)
+sample_n(iris,3)
+sample_frac(iris,.2)
+
+set.seed(1234)
+summary(iris)
+
+update.packages()
